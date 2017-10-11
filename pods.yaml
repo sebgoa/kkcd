@@ -10,8 +10,8 @@ spec:
         spec:
           containers:
           - name: app
-            image: kubecfg
-            imagePullPolicy: Never
+            image: bitnami/kubecfg:0.0.5
+            #imagePullPolicy: Never
             workingDir: /tmp/cookie/opencompose-jsonnet
             env:
             - name: TOKEN
