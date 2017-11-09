@@ -1,0 +1,6 @@
+/bazel-bin
+/bazel-genfiles
+/bazel-kkcd
+/bazel-out
+/bazel-testlogs
+

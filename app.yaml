@@ -1,0 +1,6 @@
+apiVersion: bitnami.com/v1
+kind: App
+metadata:
+  name: cookie
+spec:
+  repo: https://github.com/sebgoa/opencompose-jsonnet
