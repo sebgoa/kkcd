@@ -16,6 +16,6 @@ container_push(
    image = ":controller",
    format = "Docker",
    registry = "index.docker.io",
-   repository = "library/bitnami/kkcd-controller",
+   repository = "bitnami/kkcd-controller",
    tag = "latest",
 )
